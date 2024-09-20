@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4540FDBA-AE20-425D-8BAA-96B632D87F78}|Note Pad.csproj|C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4540FDBA-AE20-425D-8BAA-96B632D87F78}|Note Pad.csproj|solutionrelative:search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4540FDBA-AE20-425D-8BAA-96B632D87F78}|Note Pad.csproj|C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4540FDBA-AE20-425D-8BAA-96B632D87F78}|Note Pad.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4540FDBA-AE20-425D-8BAA-96B632D87F78}|Note Pad.csproj|C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\repalce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4540FDBA-AE20-425D-8BAA-96B632D87F78}|Note Pad.csproj|solutionrelative:repalce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4540FDBA-AE20-425D-8BAA-96B632D87F78}|Note Pad.csproj|c:\\users\\user\\downloads\\onedrive_1446-03-17\\course14 (1)\\note pad\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4540FDBA-AE20-425D-8BAA-96B632D87F78}|Note Pad.csproj|solutionrelative:search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4540FDBA-AE20-425D-8BAA-96B632D87F78}|Note Pad.csproj|C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4540FDBA-AE20-425D-8BAA-96B632D87F78}|Note Pad.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4540FDBA-AE20-425D-8BAA-96B632D87F78}|Note Pad.csproj|C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\repalce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4540FDBA-AE20-425D-8BAA-96B632D87F78}|Note Pad.csproj|solutionrelative:repalce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4540FDBA-AE20-425D-8BAA-96B632D87F78}|Note Pad.csproj|C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\frmfilename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4540FDBA-AE20-425D-8BAA-96B632D87F78}|Note Pad.csproj|solutionrelative:frmfilename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4540FDBA-AE20-425D-8BAA-96B632D87F78}|Note Pad.csproj|C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\frmfilename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4540FDBA-AE20-425D-8BAA-96B632D87F78}|Note Pad.csproj|solutionrelative:frmfilename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAALkAAAAAAAAAAAA7wMUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:36:46.194Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmFileName.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\FrmFileName.cs",
+              "RelativeDocumentMoniker": "FrmFileName.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\FrmFileName.cs",
+              "RelativeToolTip": "FrmFileName.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAtwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:06:31.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmFileName.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\FrmFileName.cs",
+              "RelativeDocumentMoniker": "FrmFileName.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\FrmFileName.cs [Design]",
+              "RelativeToolTip": "FrmFileName.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:58:25.975Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:34:32.934Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repalce.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\Repalce.cs",
+              "RelativeDocumentMoniker": "Repalce.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\Repalce.cs",
+              "RelativeToolTip": "Repalce.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:50:47.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Search.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\Search.cs",
+              "RelativeDocumentMoniker": "Search.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\Search.cs*",
+              "RelativeToolTip": "Search.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwBIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:33:52.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repalce.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\Repalce.cs",
+              "RelativeDocumentMoniker": "Repalce.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\Repalce.cs [Design]",
+              "RelativeToolTip": "Repalce.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:48:32.87Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Search.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\Search.cs",
+              "RelativeDocumentMoniker": "Search.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\OneDrive_1446-03-17\\course14 (1)\\Note Pad\\Search.cs [Design]*",
+              "RelativeToolTip": "Search.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:31:10.592Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

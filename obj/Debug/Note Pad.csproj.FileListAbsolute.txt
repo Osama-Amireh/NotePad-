@@ -1,0 +1,38 @@
+C:\Users\osama\OneDrive\سطح المكتب\vusial\abuhodhoud course\course14\Note Pad\bin\Debug\Note Pad.exe.config
+C:\Users\osama\OneDrive\سطح المكتب\vusial\abuhodhoud course\course14\Note Pad\bin\Debug\Note Pad.exe
+C:\Users\osama\OneDrive\سطح المكتب\vusial\abuhodhoud course\course14\Note Pad\bin\Debug\Note Pad.pdb
+C:\Users\osama\OneDrive\سطح المكتب\vusial\abuhodhoud course\course14\Note Pad\obj\Debug\Note Pad.csproj.AssemblyReference.cache
+C:\Users\osama\OneDrive\سطح المكتب\vusial\abuhodhoud course\course14\Note Pad\obj\Debug\Note_Pad.Form1.resources
+C:\Users\osama\OneDrive\سطح المكتب\vusial\abuhodhoud course\course14\Note Pad\obj\Debug\Note_Pad.Properties.Resources.resources
+C:\Users\osama\OneDrive\سطح المكتب\vusial\abuhodhoud course\course14\Note Pad\obj\Debug\Note Pad.csproj.GenerateResource.cache
+C:\Users\osama\OneDrive\سطح المكتب\vusial\abuhodhoud course\course14\Note Pad\obj\Debug\Note Pad.csproj.CoreCompileInputs.cache
+C:\Users\osama\OneDrive\سطح المكتب\vusial\abuhodhoud course\course14\Note Pad\obj\Debug\Note Pad.exe
+C:\Users\osama\OneDrive\سطح المكتب\vusial\abuhodhoud course\course14\Note Pad\obj\Debug\Note Pad.pdb
+C:\Users\osama\OneDrive\سطح المكتب\vusial\abuhodhoud course\course14\Note Pad\obj\Debug\Note_Pad.Search.resources
+C:\Users\osama\OneDrive\سطح المكتب\vusial\abuhodhoud course\course14\Note Pad\obj\Debug\Note_Pad.Repalce.resources
+C:\Users\osama\OneDrive\سطح المكتب\vusial\abuhodhoud course\course14\Note Pad\bin\Debug\aa\Note Pad.resources.dll
+C:\Users\osama\OneDrive\سطح المكتب\vusial\abuhodhoud course\course14\Note Pad\bin\Debug\ar-SA\Note Pad.resources.dll
+C:\Users\osama\OneDrive\سطح المكتب\vusial\abuhodhoud course\course14\Note Pad\obj\Debug\Note_Pad.Form1.aa.resources
+C:\Users\osama\OneDrive\سطح المكتب\vusial\abuhodhoud course\course14\Note Pad\obj\Debug\Note_Pad.Form1.ar-SA.resources
+C:\Users\osama\OneDrive\سطح المكتب\vusial\abuhodhoud course\course14\Note Pad\obj\Debug\aa\Note Pad.resources.dll
+C:\Users\osama\OneDrive\سطح المكتب\vusial\abuhodhoud course\course14\Note Pad\obj\Debug\ar-SA\Note Pad.resources.dll
+C:\Users\osama\OneDrive\سطح المكتب\vusial\abuhodhoud course\course14\Note Pad\obj\Debug\Note_Pad.File_Name.resources
+C:\Users\User\Downloads\OneDrive_1446-03-17\course14 (1)\Note Pad\bin\Debug\Note Pad.exe.config
+C:\Users\User\Downloads\OneDrive_1446-03-17\course14 (1)\Note Pad\bin\Debug\Note Pad.exe
+C:\Users\User\Downloads\OneDrive_1446-03-17\course14 (1)\Note Pad\bin\Debug\Note Pad.pdb
+C:\Users\User\Downloads\OneDrive_1446-03-17\course14 (1)\Note Pad\bin\Debug\aa\Note Pad.resources.dll
+C:\Users\User\Downloads\OneDrive_1446-03-17\course14 (1)\Note Pad\bin\Debug\ar-SA\Note Pad.resources.dll
+C:\Users\User\Downloads\OneDrive_1446-03-17\course14 (1)\Note Pad\obj\Debug\Note Pad.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\OneDrive_1446-03-17\course14 (1)\Note Pad\obj\Debug\Note_Pad.File_Name.resources
+C:\Users\User\Downloads\OneDrive_1446-03-17\course14 (1)\Note Pad\obj\Debug\Note_Pad.Form1.resources
+C:\Users\User\Downloads\OneDrive_1446-03-17\course14 (1)\Note Pad\obj\Debug\Note_Pad.Properties.Resources.resources
+C:\Users\User\Downloads\OneDrive_1446-03-17\course14 (1)\Note Pad\obj\Debug\Note_Pad.Repalce.resources
+C:\Users\User\Downloads\OneDrive_1446-03-17\course14 (1)\Note Pad\obj\Debug\Note_Pad.Search.resources
+C:\Users\User\Downloads\OneDrive_1446-03-17\course14 (1)\Note Pad\obj\Debug\Note_Pad.Form1.aa.resources
+C:\Users\User\Downloads\OneDrive_1446-03-17\course14 (1)\Note Pad\obj\Debug\Note_Pad.Form1.ar-SA.resources
+C:\Users\User\Downloads\OneDrive_1446-03-17\course14 (1)\Note Pad\obj\Debug\Note Pad.csproj.GenerateResource.cache
+C:\Users\User\Downloads\OneDrive_1446-03-17\course14 (1)\Note Pad\obj\Debug\Note Pad.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\OneDrive_1446-03-17\course14 (1)\Note Pad\obj\Debug\aa\Note Pad.resources.dll
+C:\Users\User\Downloads\OneDrive_1446-03-17\course14 (1)\Note Pad\obj\Debug\ar-SA\Note Pad.resources.dll
+C:\Users\User\Downloads\OneDrive_1446-03-17\course14 (1)\Note Pad\obj\Debug\Note Pad.exe
+C:\Users\User\Downloads\OneDrive_1446-03-17\course14 (1)\Note Pad\obj\Debug\Note Pad.pdb
